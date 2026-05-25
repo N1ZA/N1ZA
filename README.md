@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hola, soy Gabriel Niza
 
-<!--
-**N1ZA/N1ZA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería en Computación — FCEFyN, UNC Córdoba
 
-Here are some ideas to get you started:
+💻 Orientado al desarrollo de firmware y programación embebida
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tecnologías que uso
+- Lenguajes: C, C++, Ensamblador, Java
+- Microcontroladores: LPC1769 (ARM Cortex-M3), PIC16F887, Arduino
+- Herramientas: VSCode, MCUXpresso IDE, Git, Proteus
+
+## 📌 Proyectos destacados
+- 🚢 Batalla Naval en Ensamblador sobre PIC16F887
+- 🌬️ Restauración de sistema eólico con alternador y regulador de tensión
+
+📫 Contacto: gabrielniza14@gmail.com
+
